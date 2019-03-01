@@ -1,5 +1,5 @@
 //Lab 10 3D Tic-Tac-Toe
-//Xin Zheng
+
 //Nov 2, 2016
 //Section 1
 
